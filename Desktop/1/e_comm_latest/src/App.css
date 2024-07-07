@@ -1,0 +1,49 @@
+.logoimg {
+
+  width: 100px !important;
+  height: 80px !important;
+}
+
+.head {
+
+  color: #0096CE !important;
+}
+
+.home {
+  font-size: 20px !important;
+  color: #0096CE !important;
+}
+
+.inputbox {
+
+  padding: 8px 180px !important;
+}
+
+.product {
+  font-size: 20px !important;
+  color: #0096CE !important;
+}
+
+
+.products {
+  font-size: 18px !important;
+  color: #0096CE !important;
+}
+
+.btn-outline-success {
+  border-color: #0096CE !important;
+  --bs-btn-hover-bg: none !important;
+}
+
+.imglogo {
+
+  width: 60%;
+  height: 180px;
+}
+
+.cart {
+
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+}
